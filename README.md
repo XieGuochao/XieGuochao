@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XieGuohao&hide_title=true&show_icons=true&hide_border=true&theme=radical" />
+
 ### Hi there 👋
 
 - 🏫 I'm an incoming master of computer science student at EPFL, Switzerland.
