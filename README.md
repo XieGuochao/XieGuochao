@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 I'm an incomming master of computer science student at EPFL, Switzerland.
+- 🏫 I'm an incoming master of computer science student at EPFL, Switzerland.
 - 🔭 I’m currently working on [Apartsa (Startup in Shenzhen)](https://apartsa.com/)
 - 🌱 I’m currently learning computer systems and Linux kernel.
 - 👯 I’m looking to collaborate on systems programming and research.
