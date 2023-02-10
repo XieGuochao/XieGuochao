@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🏫 I'm a master of computer science student at EPFL, Switzerland. I am also a project student at [RS3Lab](https://rs3lab.github.io/).
-- 🔭 I’m an intern in Oracle Labs Zurich.
+- 🏫 I'm a master of computer science student at EPFL, Switzerland.
+- 🔭 I was an intern in Oracle Labs Zurich.
 - 🌱 I’m currently learning computer systems and Linux kernel.
 - 👯 I’m looking to collaborate on systems programming and research.
 - 🤔 I’m looking for help with potential systems research and industry internship.
@@ -11,7 +11,6 @@
 - 📫 How to reach me:
   - My personal website: [https://xieguochao.com](https://xieguochao.com)
   - My email address: [guochao.xie@epfl.ch](mailto://guochao.xie@epfl.ch)
-- ⚡ Fun fact: I play Cities Skylines.
 
 <!--
 **XieGuochao/XieGuochao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
