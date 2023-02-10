@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🏫 I'm a master of computer science student at EPFL, Switzerland.
+- 🏫 I'm a master student of computer science at EPFL, Switzerland.
 - 🔭 I was an intern in Oracle Labs Zurich.
 - 🌱 I’m currently learning computer systems and Linux kernel.
 - 👯 I’m looking to collaborate on systems programming and research.
