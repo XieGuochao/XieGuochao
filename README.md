@@ -2,15 +2,15 @@
 
 ### Hi there 👋
 
-- 🏫 I'm a master student of computer science at EPFL, Switzerland.
-- 🔭 I am an intern in Oracle Labs Zurich.
+- 🏫 I'm a master's student of computer science at EPFL, Switzerland.
+- 🔭 I was an intern at Oracle Labs Zurich.
 - 🌱 I’m currently learning computer systems and Linux kernel.
 - 👯 I’m looking to collaborate on systems programming and research.
-- 🤔 I’m looking for a full-time job starting from March 2024.
-- 💬 Ask me about life, application to graduate schools and programming!
+- 🤔 I’m looking for a full-time job starting from April 2024.
+- 💬 Ask me about life, application to graduate schools, and programming!
 - 📫 How to reach me:
-  - My personal website: [https://xieguochao.com](https://xieguochao.com)
-  - My email address: [guochao.xie@epfl.ch](mailto://guochao.xie@epfl.ch)
+  - My website: [https://xieguochao.com](https://xieguochao.com)
+  - My email address: [hyxgc@hotmail.com](mailto://hyxgc@hotmail.com)
 
 <!--
 **XieGuochao/XieGuochao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
