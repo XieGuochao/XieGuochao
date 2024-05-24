@@ -2,11 +2,9 @@
 
 ### Hi there 👋
 
-- 🏫 I'm a master's student of computer science at EPFL, Switzerland.
+- 🏫 I'm a (graduated) master's student of computer science at EPFL, Switzerland.
 - 🔭 I was an intern at Oracle Labs Zurich.
-- 🌱 I’m currently learning computer systems and Linux kernel.
-- 👯 I’m looking to collaborate on systems programming and research.
-- 🤔 I’m looking for a full-time job starting from April 2024.
+- 🌱 I’m currently working on cloud systems, operating systems, Linux kernel and eBPF.
 - 💬 Ask me about life, application to graduate schools, and programming!
 - 📫 How to reach me:
   - My website: [https://xieguochao.com](https://xieguochao.com)
