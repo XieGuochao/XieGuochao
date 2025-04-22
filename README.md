@@ -8,7 +8,7 @@
 - 💬 Ask me about life, application to graduate schools, and programming!
 - 📫 How to reach me:
   - My website: [https://xieguochao.com](https://xieguochao.com)
-  - My email address: [hyxgc@hotmail.com](mailto://hyxgc@hotmail.com)
+  - My email address: [guochao.xie.077@gmail.com](mailto://guochao.xie.077@gmail.com)
 
 <!--
 **XieGuochao/XieGuochao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
